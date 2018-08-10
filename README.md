@@ -4,6 +4,6 @@
 
 [serveo](https://serveo.net/)
 
-[ngrok](ttps://ngrok.com/)
+[ngrok](https://ngrok.com/)
 
 [nip.io](http://nip.io/)
