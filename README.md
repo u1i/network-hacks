@@ -1,3 +1,3 @@
 # network-hacks
 
-[AutoSSH\(http://www.harding.motd.ca/autossh/)
+[AutoSSH](http://www.harding.motd.ca/autossh/)
