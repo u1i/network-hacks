@@ -2,8 +2,8 @@
 
 [AutoSSH](http://www.harding.motd.ca/autossh/)
 
-[https://serveo.net/](serveo)
+[serveo](https://serveo.net/)
 
-[https://ngrok.com/](ngrok)
+[ngrok](ttps://ngrok.com/)
 
-[http://nip.io/](nip.io)
+[nip.io](http://nip.io/)
